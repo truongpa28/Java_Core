@@ -10,7 +10,7 @@ public class Main {
     }
 
     static void demTiep() {
-        x++;
+        x--;
         ++x;
     }
 
